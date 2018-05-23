@@ -1,0 +1,6 @@
+{
+  "name": "CityWeather",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./CityWeather.jsx"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CurrentLocationWeather",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./CurrentLocationWeather.jsx"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Autocomplete",
+  "version": "0.0.0",
+  "private": false,
+  "main": "./Autocomplete.jsx"
+}
